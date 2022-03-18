@@ -9,4 +9,4 @@ Also the file order is
 2. Terms and Rules
 3. Events
 4. Chill and Hangout
-5. Tables (not fixed yet)
+5. Tables (Work in Progress)

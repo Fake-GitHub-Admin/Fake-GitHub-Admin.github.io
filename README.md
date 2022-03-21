@@ -10,3 +10,5 @@ Also the file order is
 3. Events
 4. Chill and Hangout
 5. Tables (Work in Progress)
+
+3/21 Edit: I added in an mp4 just for those with no access to a text editor app. (Many more updates to come).
